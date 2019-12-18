@@ -507,3 +507,4 @@ rtmp://58.200.131.2:1935/livetv/chcatv
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台新闻",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 group-title="测试"
