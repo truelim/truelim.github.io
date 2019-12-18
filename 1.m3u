@@ -506,21 +506,4 @@ rtmp://58.200.131.2:1935/livetv/chcatv
 #EXTINF:-1 tvg-logo="http://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="港台影视",凤凰电影台
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="港台新闻",星空卫视
-rtmp://58.200.131.2:1935/livetv/startv 
-
-
-#EXTINF:-1 tvg-id="100003" tvg-name="鬼影特工" tvg-logo="https://i.loli.net/2019/12/17/PozKAeqw2Xp9uCk.jpg"  group-title="佳片赏析",鬼影特工
-https://patient-bread-bb31.bbsok.workers.dev/鬼影特工.6.underground.2019.internal.1080p.web.x264-strife.mkv
-
-
-#EXTINF:-1 tvg-id="100005" tvg-name="爱尔兰人" tvg-logo="https://i.loli.net/2019/12/17/NhRLeib4Zsaol8x.jpg"  group-title="佳片赏析",爱尔兰人
-https://patient-bread-bb31.bbsok.workers.dev/The.Irishman.2019.1080p.NF.WEB-DL.DDP5.1.ATMOS.H264-CMRG.mkv
-
-#EXTINF:-1 tvg-id="100002" tvg-name="唐顿庄园" tvg-logo="https://i.loli.net/2019/12/17/CbaMiYp3EDuUOv8.jpg"  group-title="佳片赏析",唐顿庄园
-https://patient-bread-bb31.bbsok.workers.dev/Downton.Abbey.2019.1080p.BluRay.DTS-HD.MA.7.1.x265-10bit-HDS.mkv
-
-#EXTINF:-1 tvg-id="100004" tvg-name="续命之徒" tvg-logo="https://i.loli.net/2019/12/17/QilLXtwU194HP7R.jpg"  group-title="佳片赏析",续命之徒
-https://patient-bread-bb31.bbsok.workers.dev/El.Camino.A.Breaking.Bad.Movie.2019.1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC-MZABI.mkv
-
-#EXTINF:-1 tvg-id="100001" tvg-name="我和我的祖国" tvg-logo="https://i.loli.net/2019/12/17/EPfpqj3gvtIrKLk.jpg"  group-title="佳片赏析",我和我的祖国
-https://snowy-term-29dd.usabbsok.workers.dev/My.People.My.Country.2019.2160p.WEB-DL.H265.DDP5.1-OurTV.mkv
+rtmp://58.200.131.2:1935/livetv/startv
