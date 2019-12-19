@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="常用",国家地理野生
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png"  group-title="常用",国家地理野生
 http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
-#EXTINF:-1 group-title="常用",国家地理HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png"  group-title="常用",国家地理HD
 http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
-#EXTINF:-1 group-title="常用",国家地理悠人
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png"  group-title="常用",国家地理悠人
 http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
 #EXTINF:-1 group-title="常用",BBC earth
 http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
-#EXTINF:-1 group-title="常用",动物星球[HD]
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"  group-title="常用",动物星球[HD]
 http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
-#EXTINF:-1 group-title="常用",Discovery Asia
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"  group-title="常用",Discovery Asia
 http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
 #EXTINF:-1 group-title="常用",Discovery[HD]
 http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flv
-#EXTINF:-1 group-title="常用",Discovery科学[HD]
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"  group-title="常用",Discovery科学[HD]
 http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
-#EXTINF:-1 group-title="常用",历史频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png"  group-title="常用",历史频道
 http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
-#EXTINF:-1 group-title="常用",历史频道2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/History2.png"  group-title="常用",历史频道2
 http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
-#EXTINF:-1 group-title="常用",HBO HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png"  group-title="常用",HBO HD
 http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
-#EXTINF:-1 group-title="常用",HBO Hits
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png"  group-title="常用",HBO Hits
 http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
-#EXTINF:-1 group-title="常用",HBO Signature
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png"  group-title="常用",HBO Signature
 http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-#EXTINF:-1 group-title="常用",HBO Family
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png"  group-title="常用",HBO Family
 http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
 #EXTINF:-1 group-title="常用",CNN NEWS
 http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
