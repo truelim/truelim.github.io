@@ -5,7 +5,7 @@ http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
 http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png"  group-title="常用",国家地理悠人
 http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
-#EXTINF:-1 group-title="常用",BBC earth
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png"  group-title="常用",BBC earth
 http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"  group-title="常用",动物星球[HD]
 http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
@@ -27,6 +27,26 @@ http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
 http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png"  group-title="常用",HBO Family
 http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
+#EXTINF:-1 group-title="常用",福克斯家庭影院
+http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
+#EXTINF:-1 group-title="常用",FX HD
+http://cloud-play.hhalloy.com/live/245532ab74af9be852014a93e292f690.flv
+#EXTINF:-1 group-title="常用",Cinema World
+http://cloud-play.hhalloy.com/live/357252de83720e30d40c00bfba69c497.flv
+#EXTINF:-1 group-title="常用",FOX HD
+http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
+#EXTINF:-1 group-title="常用",Warner TV
+http://cloud-play.hhalloy.com/live/a645bdeafb1216c23352144c3505bd8c.flv
+#EXTINF:-1 group-title="常用",FOX MOVIES[HD]
+http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
+#EXTINF:-1 group-title="常用",CINEMAX
+http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
+#EXTINF:-1 group-title="常用",好莱坞电影[HD]
+http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
+#EXTINF:-1 group-title="常用",迪斯尼卡通
+http://cloud-play.hhalloy.com/live/198038b134ad459d9cc251038c74685a.flv
+#EXTINF:-1 group-title="常用",梦工厂动画
+http://cloud-play.hhalloy.com/live/aae9c139f056e6c003448ba1e4908ee3.flv
 #EXTINF:-1 group-title="常用",CNN NEWS
 http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
 #EXTINF:-1 group-title="常用",BBC World News
@@ -423,12 +443,6 @@ http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flv
 http://cloud-play.hhalloy.com/live/7c52797bf1ca2da52c212bdead1d607c.flv
 #EXTINF:-1 group-title="中国台湾",DIVA
 http://cloud-play.hhalloy.com/live/2ff14655a982c6d2be2a8b0c5649d257.flv
-#EXTINF:-1 group-title="中国台湾",福克斯家庭影院
-http://cloud-play.hhalloy.com/live/440b3d3c474813d7ead7d3a795978e69.flv
-#EXTINF:-1 group-title="中国台湾",FX HD
-http://cloud-play.hhalloy.com/live/245532ab74af9be852014a93e292f690.flv
-#EXTINF:-1 group-title="中国台湾",Cinema World
-http://cloud-play.hhalloy.com/live/357252de83720e30d40c00bfba69c497.flv
 #EXTINF:-1 group-title="中国台湾",CNEX
 http://cloud-play.hhalloy.com/live/a079e0f13033fc06d42cd0e9e40913ee.flv
 #EXTINF:-1 group-title="中国台湾",CRIME
@@ -529,8 +543,6 @@ http://cloud-play.hhalloy.com/live/4abe46a5faf4865e251ac981287a6e20.flv
 http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
 #EXTINF:-1 group-title="中国台湾",JET综合[HD]
 http://cloud-play.hhalloy.com/live/c4fcaea7013c6b1d6aef9f1d0e99871e.flv
-#EXTINF:-1 group-title="中国台湾",FOX HD
-http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
 #EXTINF:-1 group-title="中国台湾",高点综合[HD]
 http://cloud-play.hhalloy.com/live/f11ea1c1918059c58b42c637fa9dc678.flv
 #EXTINF:-1 group-title="中国台湾",公视2
@@ -541,8 +553,6 @@ http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flv
 http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 #EXTINF:-1 group-title="中国台湾",龙华偶像
 http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
-#EXTINF:-1 group-title="中国台湾",Warner TV
-http://cloud-play.hhalloy.com/live/a645bdeafb1216c23352144c3505bd8c.flv
 #EXTINF:-1 group-title="中国台湾",AXN
 http://cloud-play.hhalloy.com/live/c762110b3eef8bcccce5863643dd66aa.flv
 #EXTINF:-1 group-title="中国台湾",彩昌影剧台
@@ -575,10 +585,6 @@ http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
 http://cloud-play.hhalloy.com/live/4364abb0a9f358049a535f4692cd49b5.flv
 #EXTINF:-1 group-title="中国台湾",靖天电影
 http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
-#EXTINF:-1 group-title="中国台湾",FOX MOVIES[HD]
-http://cloud-play.hhalloy.com/live/b3d2208824d1ca27dad3068e376ab557.flv
-#EXTINF:-1 group-title="中国台湾",CINEMAX
-http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
 #EXTINF:-1 group-title="中国台湾",壹电影
 http://cloud-play.hhalloy.com/live/eb53b692ccbe8c836bc20be6734a9555.flv
 #EXTINF:-1 group-title="中国台湾",纬来电影
@@ -593,8 +599,6 @@ http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
 #EXTINF:-1 group-title="中国台湾",龙华洋片
 http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
-#EXTINF:-1 group-title="中国台湾",好莱坞电影[HD]
-http://cloud-play.hhalloy.com/live/8e678565884cdebd00f8b3121b3b7ee1.flv
 #EXTINF:-1 group-title="中国台湾",影迷纪实台
 http://cloud-play.hhalloy.com/live/a1d2d2be053776bb01c1aac37ac2dee4.flv
 #EXTINF:-1 group-title="中国台湾",CatchPlay电影台
@@ -611,10 +615,6 @@ http://cloud-play.hhalloy.com/live/0c795e6e7f8e067dd4110a57375a71b9.flv
 http://cloud-play.hhalloy.com/live/c865782e4a131efe17651165835ca37e.flv
 #EXTINF:-1 group-title="中国台湾",ANIMAX
 http://cloud-play.hhalloy.com/live/33de03293563010671a856688d63d4ee.flv
-#EXTINF:-1 group-title="中国台湾",迪斯尼卡通
-http://cloud-play.hhalloy.com/live/198038b134ad459d9cc251038c74685a.flv
-#EXTINF:-1 group-title="中国台湾",梦工厂动画
-http://cloud-play.hhalloy.com/live/aae9c139f056e6c003448ba1e4908ee3.flv
 #EXTINF:-1 group-title="中国台湾",I-FUN动漫台
 http://cloud-play.hhalloy.com/live/9cd9d87c4ccbf7f28284990a1c3d4569.flv
 #EXTINF:-1 group-title="中国台湾",曼迪日本台
