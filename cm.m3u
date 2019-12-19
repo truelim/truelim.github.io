@@ -1,30 +1,26 @@
 #EXTM3U
-#EXTINF:-1 group-title="常用",BBC Lifestyle
-http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
+#EXTINF:-1 group-title="常用",国家地理野生
+http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
+#EXTINF:-1 group-title="常用",国家地理HD
+http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
+#EXTINF:-1 group-title="常用",国家地理悠人
+http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
 #EXTINF:-1 group-title="常用",BBC earth
 http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
 #EXTINF:-1 group-title="常用",动物星球[HD]
 http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
-#EXTINF:-1 group-title="常用",FOX CRIME
-http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
-#EXTINF:-1 group-title="常用",HBO HD
-http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
 #EXTINF:-1 group-title="常用",Discovery Asia
 http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
 #EXTINF:-1 group-title="常用",Discovery[HD]
 http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flv
 #EXTINF:-1 group-title="常用",Discovery科学[HD]
 http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
-#EXTINF:-1 group-title="常用",国家地理悠人
-http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
-#EXTINF:-1 group-title="常用",国家地理野生
-http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
-#EXTINF:-1 group-title="常用",国家地理HD
-http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.flv
 #EXTINF:-1 group-title="常用",历史频道
 http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
 #EXTINF:-1 group-title="常用",历史频道2
 http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
+#EXTINF:-1 group-title="常用",HBO HD
+http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
 #EXTINF:-1 group-title="常用",HBO Hits
 http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
 #EXTINF:-1 group-title="常用",HBO Signature
@@ -112,6 +108,8 @@ http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
 http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 #EXTINF:-1 group-title="港台新闻",TVB J2
 http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
+#EXTINF:-1 group-title="港台新闻",BBC Lifestyle
+http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png"  group-title="港台娱乐",明珠台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8
@@ -375,6 +373,8 @@ http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
 
 #EXTINF:-1 group-title="中国台湾",AMC日舞
 http://cloud-play.hhalloy.com/live/40d0812307cd389be76c358de7f4913e.flv
+#EXTINF:-1 group-title="中国台湾",FOX CRIME
+http://cloud-play.hhalloy.com/live/833d6cdeed807b755e6c449832b26621.flv
 #EXTINF:-1 group-title="中国台湾",WaKaWaka Japan
 http://cloud-play.hhalloy.com/live/6fab3a8298ba5097394c5fdcdea8ea81.flv
 #EXTINF:-1 group-title="中国台湾",BoomErang卡通
