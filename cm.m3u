@@ -128,6 +128,7 @@ https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台新闻",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png"  group-title="港台娱乐",明珠台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/e5b375085720fd04cec615352224b493.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png"  group-title="港台娱乐",翡翠台
@@ -278,8 +279,6 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/75249ac8b464466a9c41c669bd27260a.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/6c4078ac7601f5787aef2f8b88dd449c.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87.png"  group-title="港台娱乐",卫视中文台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png"  group-title="港台娱乐",幸福空间居家台
-http://pili-live-hdl.qhmywl.com:80/dsdtv/891dfa401663622b29ab70c16ea2273e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台娱乐",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q113132S50-L.jpg"  group-title="港台娱乐",香港603
@@ -362,12 +361,8 @@ http://pili-live-hdl.qhmywl.com:80/dsdtv/40d0812307cd389be76c358de7f4913e.m3u8
 http://pili-live-hdl.qhmywl.com:80/dsdtv/0916fef64c4baab95f7097d001e4c27e.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7.png"  group-title="港台影视",靖天戏剧台
 http://pili-live-hdl.qhmywl.com:80/dsdtv/4c3b3fa6235fce99e794a16e096c2e1b.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png"  group-title="港台影视",龙华戏剧
-http://pili-live-hdl.qhmywl.com:80/dsdtv/b40ec839440a97d24d0aee0c69d186a1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png"  group-title="港台影视",龙华偶像
 http://pili-live-hdl.qhmywl.com:80/dsdtv/046d62141df9366aa54a66b22e095e24.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png"  group-title="港台影视",八大戏剧台
-http://pili-live-hdl.qhmywl.com:80/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/04/warnertv-logo.jpg?w=1000&h=563&crop=1"  group-title="港台影视",WarnerTV
 http://pili-live-hdl.qhmywl.com:80/dsdtv/a645bdeafb1216c23352144c3505bd8c.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png"  group-title="港台影视",AXN
@@ -498,8 +493,6 @@ http://39.135.36.157:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ys
 http://39.135.36.155:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000028357&owchid=ystenlive&owsid=1106497909461262352&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaROVzE3kgfqbxbWUefjzmwWM6UWM1tPF3fcVILxO8TukKPE2BY%2fTje83gAnl%2fZNkb%2b
 #EXTINF:-1 group-title="卫视备用",珠江卫视
 http://39.135.36.151:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000004000011655&owchid=ystenlive&owsid=1106497909461268935&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4vNKx96%2bA3ppi2THlI0VlIDxwgnRBxQnnbWKTW8MTwvyEFUHTa6diXnUM1ACyB1BC6aNBSsOM3YI3qaHRRxYZp
-#EXTINF:-1 group-title="卫视备用",南方卫视
-http://39.135.36.155:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
 #EXTINF:-1 group-title="卫视备用",深圳卫视
 http://39.135.36.150:18890/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011645&owchid=ystenlive&owsid=1106497909461286475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRi%2fGQBc72yY6Quo0JMFE7sAOH9P3BRKKjlume5S4R4Q4D5A%2fuxi3rN%2bHd%2bNxeQD8d
 #EXTINF:-1 group-title="卫视备用",山东卫视
@@ -526,16 +519,6 @@ http://39.135.36.146:18890/000000001000/1000000002000017118/1.m3u8?channel-id=ys
 http://39.135.36.150:18890/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024033&owchid=ystenlive&owsid=1106497909461352974&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhQBci%2f2KtFqbPb5lYHzQlehPnBUBV7gDU5NsQ1fq2DyLArxZhG%2bC4a49jTs%2bwbEKo
 #EXTINF:-1 group-title="卫视备用",黑龙江卫视
 http://39.135.36.140:18890/000000001000/8467838254824392379/1.m3u8?channel-id=ystenlive&Contentid=8467838254824392379&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=8467838254824392379&owchid=ystenlive&owsid=1106497909461358444&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5eLzTptYlaHwBbi5jFcfGGajSKACYh%2bxMIkH12jcM41WvzLTRYworzrZ3FKkyeJf%2fWTgBHYgXtjL76Tybav9u%2b
-#EXTINF:-1 group-title="卫视备用",甘肃卫视
-http://39.135.36.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
-#EXTINF:-1 group-title="卫视备用",青海卫视
-http://39.135.36.147:18890/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000013359&owchid=ystenlive&owsid=1106497909461374163&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhJ4u8mZ9HohO4vJAcHWQKsu0WB2heV8z3%2bnCiQyrISnc%2fLQjwPdTUSlBahL%2bKNKpM
-#EXTINF:-1 group-title="卫视备用",云南卫视
-http://39.135.36.157:18890/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000024694&owchid=ystenlive&owsid=1106497909461387812&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjh5LeWQtTPRcwTT4zmEXlA%2fwzvDSa%2fxaofg6Rpl19xhoQ1lNgovjV%2baMdiH1BrPHH%2b
-#EXTINF:-1 group-title="卫视备用",山东教育
-http://111.12.110.81:6610/000000001000/7341476808603780321/1.m3u8?channel-id=ystenlive&Contentid=7341476808603780321&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=e15b57852d9cd94f58b9ccb1755d812821vv&usergroup=g21077200000&version=1.0&owaccmark=7341476808603780321&owchid=ystenlive&owsid=4493204828792189840&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6fKRK7GAM8s7D%2bvkwMK3SOqEA4VgxLdMGzRQx4LjQbnpNG5Yxx8PWi4awKDvN4RIT%2bt59nOe%2fS6tNZ0ayvMsdu&IASHttpSessionId=SLB1152820180727152955665773
-#EXTINF:-1 group-title="卫视备用",陕西卫视
-http://39.135.36.139:18890/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=1106497909461393057&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhC1U23M2CL94H7Jl9UsXCcDV0kHzvpufT%2f4%2bgoUc31ou2LTka7qAY0hPTMutW5mQ%2b
 #EXTINF:-1 group-title="卫视备用",吉林卫视
 http://39.135.36.157:18890/000000001000/6042486520432105075/1.m3u8?channel-id=ystenlive&Contentid=6042486520432105075&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=6042486520432105075&owchid=ystenlive&owsid=1106497909461400661&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4zsyYJ9%2f94ZJUxUEiCPKz71GdIgOKPVNKAV5cZDiBiTfpeXwtOnUwYO06%2bu%2fL6TfF%2fffImHwCRpMFmrhzVqshX
 
@@ -710,12 +693,8 @@ http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
 http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
 #EXTINF:-1 group-title="中国台湾",Hakkatv[HD]
 http://cloud-play.hhalloy.com/live/9535868a6a173399d3913cab3bb61675.flv
-#EXTINF:-1 group-title="中国台湾",TITV原住民电视台[HD]
-http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
 #EXTINF:-1 group-title="中国台湾",LIFE TIME
 http://cloud-play.hhalloy.com/live/d8ab211a4f23fe8e143757d13ade9b32.flv
-#EXTINF:-1 group-title="中国台湾",TRACE Sports
-http://cloud-play.hhalloy.com/live/3b88f91a420e6cd59cd034ccf2a05c10.flv
 #EXTINF:-1 group-title="中国台湾",八大综合[HD]
 http://cloud-play.hhalloy.com/live/a26d25ad9eaabca42fa6d526199d61e5.flv
 #EXTINF:-1 group-title="中国台湾",东风37台
@@ -740,8 +719,6 @@ http://cloud-play.hhalloy.com/live/8e08d22adcc7748ceedc31006b55f7de.flv
 http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 #EXTINF:-1 group-title="中国台湾",龙华偶像
 http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
-#EXTINF:-1 group-title="中国台湾",八大戏剧[HD]
-http://cloud-play.hhalloy.com/live/6d7d7a9c22ba9aa4e411e3f7567763d8.flv
 #EXTINF:-1 group-title="中国台湾",Warner TV
 http://cloud-play.hhalloy.com/live/a645bdeafb1216c23352144c3505bd8c.flv
 #EXTINF:-1 group-title="中国台湾",AXN
@@ -908,8 +885,6 @@ https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-
 http://39.135.36.150:18890/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6859053933687922163&owchid=ystenlive&owsid=1106497909461643183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7rI6cyOBdMQcbb7pGYvKkkE4PU3Zf45kDZim939dEFvAtUmU8crfqEUv5zpewkRlr9zZahSqXGjBKN9OvmeMwv
 #EXTINF:-1 group-title="NewTV",NewTV动作
 http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=1106497909461651262&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6gc5lrV9LORe1gi%2brvWfZqjqWg5r9sHf%2bhUiRSDpBuWg5lRQBeU9YctiSzPH6gfVkWNbz7C4olsbRCQkf1hNrZ
-#EXTINF:-1 group-title="NewTV",NewTV军旅
-http://39.135.36.156:18890/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7485075951068666323&owchid=ystenlive&owsid=1106497909461660587&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7gYwRY3Wxxxjm4eCFATbicSFfA3OO5y8oXZJsD0pdpNF5XUqv6ZoXjgdtsapPA003lukcFW5PcqCPu9LmSAwaU
 #EXTINF:-1 group-title="NewTV",NewTV家庭
 http://39.135.36.154:18890/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6316377948248689070&owchid=ystenlive&owsid=1106497909461667557&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4ZwpjUZzRJ311OOUZgk%2fdzXH6qIpYr0YPi6NvoFlPR1BKc5nFG3fYCgRA5KoFSBO69EQ0AB6jYRoTGtX%2bXoSmh
 #EXTINF:-1 group-title="NewTV",NewTV惊悚
@@ -926,7 +901,5 @@ http://39.135.36.147:18890/000000001000/7882297361445410858/1.m3u8?channel-id=ys
 http://39.135.36.155:18890/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=5897056882324761054&owchid=ystenlive&owsid=1106497909461714898&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7F7WgeLO%2bfyIWPYXQQMhNtCo5WrxR%2bhkEBJzZk8A5S%2bUclQim%2ffZXtk%2bP4F8ROcQNAlQJtGhciSrbmmnbiZQWc
 #EXTINF:-1 group-title="NewTV",NewTV金牌综艺
 http://39.135.36.140:18890/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6399725674632152632&owchid=ystenlive&owsid=1106497909461719323&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4gyKcpvop%2bJI182Bs2kqZG345lJmBteJiRcq6kB86C9F3lxBSs1xa6%2bdgOwB1WRIKDdF3P8H%2bLGMiwAhepZKru
-#EXTINF:-1 group-title="NewTV",NewTV军事评论
-http://39.135.36.151:18890/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=5822616274253344775&owchid=ystenlive&owsid=1106497909461724106&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7%2baKbhkowsYIbIX%2fDf65zZplfMot6mRkOGBkot%2bjE4A8Wm%2bKVEkV%2fcPOkvsemBIenlZSBuNy85BFE%2b0UBbzIgQ
 #EXTINF:-1 group-title="NewTV",NewTV精品记录
 http://39.135.36.156:18890/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=1106497909461739335&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5Z%2fEzyUAZDVIPoiwNPLYgjJvkohoXFTsC5VYOGHUU7RlueMvRrGKmSZC%2bNKYW4Mlhq%2bt9ZsVsg39%2bFutggbU%2f7
