@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.loli.net/2020/02/28/tB4Tzckp9N1CWUR.png" group-title="央视",CCTV-4K（公众号：CUIUC）
+#EXTINF:-1 tvg-logo="https://i.loli.net/2020/02/28/tB4Tzckp9N1CWUR.png" group-title="央视",CCTV-4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png" group-title="央视", CCTV-1
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
@@ -918,7 +918,7 @@ http://liveplay.lztvnet.com/live/31750_cc3fcb0f68b311e992905cb9018cf0d4.m3u8
 http://liveplay.lztvnet.com/live/31750_e1bbfc0b68b311e992905cb9018cf0d4.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视（公众号：CUIUC）
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港澳台",TVB无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
@@ -973,8 +973,6 @@ http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港澳台",BabyFirst港澳台
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="港澳台",Bbsok.CF
-http://51buy.giize.com/1.mp4
 
 
 
