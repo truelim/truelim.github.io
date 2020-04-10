@@ -279,8 +279,6 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
 #EXTINF:-1,韩国阿里郎
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,美国之音
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1,峨眉电影蓝光
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1,欢笑剧场蓝光
